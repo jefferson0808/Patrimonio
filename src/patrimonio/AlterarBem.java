@@ -7,7 +7,7 @@ package patrimonio;
 
 /**
  *
- * @author test
+ * @author test..
  */
 public class AlterarBem extends javax.swing.JInternalFrame{
 
